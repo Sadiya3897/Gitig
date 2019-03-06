@@ -1,0 +1,15 @@
+{
+  "name": "saa",
+  "version": "1.0.0",
+  "description": "4Hey",
+  "main": "Swap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sadiya",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "typescript": "^3.3.3333"
+  }
+}
